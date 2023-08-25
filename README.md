@@ -17,6 +17,6 @@ In order to run this project in your machine, you should run these commands firs
 # Credentials
 
 Once you open the website use the following credentials to access the home page:
-Email : admin@gmail.com
-Password : password
+1. Email : admin@gmail.com
+2. Password : password
 after you login, you may change them freely.
